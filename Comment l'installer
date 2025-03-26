@@ -1,0 +1,7 @@
+pkg install proot-distro
+proot-distro install ubuntu
+proot-distro login ubuntu
+pkg install python
+pkg install git
+pip install requests 
+git clone
