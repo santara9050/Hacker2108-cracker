@@ -1,3 +1,4 @@
+#entrer les commande l'une après l'autre
 pkg install proot-distro
 proot-distro install ubuntu
 proot-distro login ubuntu
