@@ -1,0 +1,7 @@
+pkg install python
+pkg install git
+pip install requests 
+git clone https://github.com/hacker2108-maker/Hacker2108-cracker.git
+cd Hacker2108-cracker
+python Wifi-cracker.py
+[26/03 18:11] null: 
